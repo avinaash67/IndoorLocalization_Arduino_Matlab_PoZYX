@@ -10,3 +10,5 @@ Indoor localization using Pozyx tags.
 	2.1. Kalman filter
 	
 	2.2. FIR filter
+
+![alt text](https://github.com/avinaash67/Localization_Arduino_PoZYX/blob/master/pozyx_arduino.jpg?raw=true)
